@@ -1,0 +1,104 @@
+{
+   "Login":{
+      "Id":"1",
+      "UserName":"Xuannguyenhumg@gmail.com",
+      "PassWord":"Nguyen@1",
+      "re_PassWord":"Nguyen@1"
+   },
+   "SlideShow":[
+      {
+         "Id":"1fdas",
+         "TitleHeader":"Lê Thẩm Dương",
+         "DescriptionHeader":"Nâng cao kỹ năng cá nhân",
+         "news":[
+            {
+               "Id":"1",
+               "Title":"Ts. Lê Thẩm Dương- Chiến lược tài chính",
+               "Price":"499,000 đ",
+               "SellPrice":"399,000 đ",
+               "Heart":"64",
+               "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60740c5331b9ae0024d5d228"
+            },
+            {
+               "Id":"2",
+               "Title":"Phân phối MKT qua các kênh Owned Media",
+               "Price":"199,000 đ",
+               "SellPrice":"299,000 đ",
+               "Heart":"30",
+               "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891eafd81f4500243b480f"
+            },
+            {
+               "Id":"3",
+               "Title":"Kỹ năng tìm việc và gây ấn tượng với nhà tuyển dụng dành RIÊNG cho MKTers",
+               "Price":"599,000 đ",
+               "SellPrice":"399,000 đ",
+               "Heart":"40",
+               "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891fcdd81f4500243b481d"
+            },
+            {
+               "Id":"4",
+               "Title":"TestNG Framework",
+               "Price":"399,000 đ",
+               "SellPrice":"399,000 đ",
+               "Heart":"400",
+               "Cover":"https://cdn2.topica.vn/5a7a63749f7bfc459700033e/product/5ffffaa144d203002598bbd5"
+            }
+         ]
+      },
+      {
+         "Id":"123jhgfagg",
+         "TitleHeader":"Chương Trình",
+         "DescriptionHeader":"Nâng cao kỹ năng cá nhân",
+         "news":[
+             {
+                "Id":"1",
+                "Title":"Ts. Lê Thẩm Dương- Chiến lược tài chính",
+                "Price":"499,000 đ",
+                "SellPrice":"399,000 đ",
+                "Heart":"64",
+                "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60740c5331b9ae0024d5d228"
+             },
+             {
+                "Id":"2",
+                "Title":"Phân phối MKT qua các kênh Owned Media",
+                "Price":"199,000 đ",
+                "SellPrice":"299,000 đ",
+                "Heart":"30",
+                "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891eafd81f4500243b480f"
+             },
+             {
+                "Id":"3",
+                "Title":"Kỹ năng tìm việc và gây ấn tượng với nhà tuyển dụng dành RIÊNG cho MKTers",
+                "Price":"599,000 đ",
+                "SellPrice":"399,000 đ",
+                "Heart":"40",
+                "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891fcdd81f4500243b481d"
+             }
+         ]
+      },
+      {
+         "Id":"123jhgfagg",
+         "TitleHeader":"Gợi ý",
+         "DescriptionHeader":"cho bạn",
+         "news":[
+             {
+                "Id":"2",
+                "Title":"Phân phối MKT qua các kênh Owned Media",
+                "Price":"199,000 đ",
+                "SellPrice":"299,000 đ",
+                "Heart":"30",
+                "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891eafd81f4500243b480f"
+             },
+             {
+                "Id":"3",
+                "Title":"Kỹ năng tìm việc và gây ấn tượng với nhà tuyển dụng dành RIÊNG cho MKTers",
+                "Price":"599,000 đ",
+                "SellPrice":"399,000 đ",
+                "Heart":"40",
+                "Cover":"https://cdn2.topica.vn/191ab4fd-9c62-4494-b209-51f86a3924d3/product/60891fcdd81f4500243b481d"
+             }
+         ]
+      }
+     
+   ]
+}
